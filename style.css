@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+input{
+    padding: 4px;
+    border-radius: 5%;
+    display: flex;
+    flex-wrap: wrap; 
+}
+button{
+    margin-top: 1%;
+    color: wheat;
+    background-color: black;
+}
